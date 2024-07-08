@@ -1,0 +1,155 @@
+{
+    "name": "Pratyush Gupta",
+    "contact": {
+      "address": "Ghaziabad, Uttar Pradesh",
+      "phone": "9818372525",
+      "email": "pp6077@srmist.edu.in"
+    },
+    "summary": "I am a tech enthusiast with a passion for innovation. I'm a highly competent MERN Developer and enthusiastic web developer that specializes in Front-End and Back-End Programming as well as proficient in Python and C++ coding. My passion for data structures and algorithms drives my work, and I apply these concepts to my web development projects to produce effective and approachable solutions. I wish to contribute to the growth of the company while working in a dynamic Organization.",
+    "work_experience": [
+      {
+        "company": "Alteryx Inc.",
+        "title": "Data Analytics Process Automation Intern",
+        "dates": "Sep 2023 - Dec 2023",
+        "descriptions": [
+          "Gained Skills in the field of data analytics and process automation."
+        ]
+      },
+      {
+        "company": "AICTE & Ministry of Housing and Urban Affairs",
+        "title": "AI-ML Intern",
+        "dates": "May 2023 - Aug 2023",
+        "descriptions": [
+          "Learned the fundamentals of Artificial Intelligence and Machine Learning with real world applications."
+        ]
+      }
+    ],
+    "skills": [
+      "Python",
+      "C++",
+      "C",
+      "Django",
+      "SQL",
+      "Github",
+      "Git",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Tkinter",
+      "Figma",
+      "Visual Studio",
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Bootstrap",
+      "Node.js",
+      "PowerBI",
+      "React.js",
+      "Express.JS",
+      "MongoDB",
+      "AWS"
+    ],
+    "education": [
+      {
+        "degree": "B.Tech",
+        "institution": "SRM Institute of Science and Technology",
+        "dates": "Sep 2021 - May 2025",
+        "gpa": "9.28"
+      },
+      {
+        "degree": "12th",
+        "institution": "Amity International School",
+        "dates": "Mar 2019 - May 2021",
+        "gpa": "93.8"
+      },
+      {
+        "degree": "10th",
+        "institution": "Amity International School",
+        "dates": "Mar 2018 - Apr 2019",
+        "gpa": "95.6"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Pharmacy Management System",
+        "dates": "Mar 2024 - Apr 2024",
+        "institution": "SRM Institute of Science and Technology",
+        "technologies": ["PHP", "PHPMyadmin", "CSS", "Bootstrap", "HTML", "Javascript"],
+        "description": "This project was developed using PHP, XAMPP server, and phpMyAdmin. The system is designed to streamline and manage pharmacy-related tasks and operations."
+      },
+      {
+        "name": "Most Streamed Spotify Songs",
+        "dates": "Feb 2024 - Mar 2024",
+        "institution": "SRM Institute of Science and Technology",
+        "technologies": ["Panda", "Databases", "Data Mining", "Linear Regression", "Classification", "Visualization"],
+        "description": "Used Panda Library and Dataset to analyze and do data visualization using ml algorithms."
+      },
+      {
+        "name": "IngredientIQ",
+        "dates": "Feb 2023 - Mar 2023",
+        "institution": "Group Project",
+        "technologies": ["CSS", "HTML", "Javascript", "API"],
+        "description": "It provides Recipe Suggestions based on ingredients provided and according to calorie based meal suggestions using API. Used HTML, CSS and JavaScript."
+      },
+      {
+        "name": "Portfolio Website",
+        "dates": "Sep 2022 - Sep 2022",
+        "institution": "Individual Project",
+        "technologies": ["HTML", "CSS"],
+        "description": "Portfolio Website with Information on me. Used HTML and CSS."
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Alteryx Foundational Micro Credential",
+        "institution": "Alteryx",
+        "dates": "Oct 2023 - Oct 2025",
+        "description": "Knowledge of data analytics concepts and key Designer functionality."
+      },
+      {
+        "name": "Alteryx Designer Core Certification",
+        "institution": "Alteryx",
+        "dates": "Oct 2023 - Oct 2025",
+        "description": "To effectively utilize Alteryx Designer for data preparation, analysis, and visualization tasks."
+      },
+      {
+        "name": "AWS Cloud Foundation",
+        "institution": "AWS Academy",
+        "dates": "Jul 2023 - Present",
+        "description": "Overview of Cloud Computing. It provides an overview of cloud concepts, AWS core services, security, architecture, pricing, and support."
+      },
+      {
+        "name": "AWS Machine Learning Foundations",
+        "institution": "AWS Academy",
+        "dates": "May 2023 - Present",
+        "description": "Introduction to Machine Learning. Building, training, tuning, and deploying machine learning (ML) models on AWS."
+      },
+      {
+        "name": "Networking Basis",
+        "institution": "Cisco Networking",
+        "dates": "Apr 2023 - Present",
+        "description": "Develop critical thinking and problem-solving skills using Cisco Packet Tracer. Practice verifying and troubleshooting network and Internet connectivity."
+      },
+      {
+        "name": "Software Defined Networking",
+        "institution": "Coursera",
+        "dates": "May 2024 - Present",
+        "description": "The Software Defined Networking (SDN) course on Coursera covers the fundamentals of SDN, including its architecture, principles, and applications. It explores how SDN decouples network control from hardware, enabling flexible network management, optimization, and innovation. Key topics include OpenFlow, network virtualization, and security implications."
+      }
+    ],
+    "languages": [
+      "Hindi [Native Proficiency]",
+      "English [Professional Working Proficiency]"
+    ],
+    "links": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/pratyush-gupta09/"
+      },
+      {
+        "GitHub": "https://github.com/Pratyush963"
+      },
+      {
+        "HackerRank": "https://www.hackerrank.com/profile/pp6077"
+      }
+    ]
+  }
+  

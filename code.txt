@@ -1,0 +1,31 @@
+{
+  "name": "<Applicant Name>",
+  "contact": {
+    "address": "<Address>",
+    "phone": "<Phone Number>",
+    "email": "<Email Address>"
+  },
+  "summary": "<Summary Text>",
+  "work_experience": [
+    {
+      "company": "<Company Name>",
+      "title": "<Job Title>",
+      "dates": "<Start Date> - <End Date>",
+      "descriptions": [
+        "<Responsibility 1>",
+        "<Responsibility 2>"
+      ]
+    },
+    ... (additional work experience entries)
+  ],
+  "skills": [
+    "<Skill 1>",
+    "<Skill 2>",
+    ... (list of skills)
+  ],
+  "education": {
+    "degree": "<Degree Name>",
+    "institution": "<University Name>",
+    "graduation_year": "<Year>"
+  }
+}
